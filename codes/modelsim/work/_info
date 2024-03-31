@@ -1,0 +1,633 @@
+m255
+K3
+13
+cModel Technology
+dD:\Programs\altera\90\modelsim_ase\examples
+Eadder
+Z0 !s101 -O0 -O0 -O0 -O0 -O0 -O0
+Z1 w1682503210
+Z2 DPx4 ieee 11 numeric_std 0 22 =NSdli^?T5OD8;4F<blj<3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 GH1=`jDDBJ=`LM;:Ak`kf2
+Z4 dD:\Electrical Engineering\Graduate\VHDL\Assignments\3\codes\modelsim
+Z5 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/adder.vhd
+Z6 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/adder.vhd
+l0
+L5
+VS_QRd3P2@Yd`PZ?PHbWV?1
+Z7 OV;C;6.4a;39
+Z8 !s101 -O0 -O0 -O0 -O0 -O0 -O0
+32
+Z9 o-work work -2002 -explicit -O0
+Z10 tExplicit 1
+!s100 `ONLBG4NC5ajTn0l@YjAj1
+Abehavioral
+R2
+R3
+Z11 DEx4 work 5 adder 0 22 S_QRd3P2@Yd`PZ?PHbWV?1
+l17
+L16
+VQ1^O`Pi8PM5h7i1T32NJ43
+R7
+32
+Z12 Mx2 4 ieee 14 std_logic_1164
+Z13 Mx1 4 ieee 11 numeric_std
+R9
+R10
+!s100 :@GKUSCfcf1SdY^bhzD?:2
+Parr_type
+R3
+w1682495585
+R4
+8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/arr_type.vhd
+FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/arr_type.vhd
+l0
+L4
+VDKQNKoAOPX=0za54Z?FTg1
+R7
+Z14 !s101 -O0 -O0 -O0 -O0
+32
+Z15 Mx1 4 ieee 14 std_logic_1164
+R9
+R10
+!s100 =JM>QahMkaE3@^iRLbIK>1
+Pbus_multiplexer_pkg
+DPx4 work 19 bus_multiplexer_pkg 0 22 EPRDjb5zc@gd9<HW;AI@h3
+R3
+w1682250333
+R4
+Z16 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layerDataPath.vhd
+Z17 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layerDataPath.vhd
+l0
+L5
+VHC]8900gTU4Tla_?FzdR51
+R7
+R8
+32
+R12
+Mx1 4 work 19 bus_multiplexer_pkg
+R9
+R10
+!s100 m^mzHDJda8LB3=mDoI09L1
+Ecounter
+Z18 !s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+Z19 w1682257073
+Z20 DPx4 ieee 15 std_logic_arith 0 22 GJbAT?7@hRQU9IQ702DT]2
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 hEMVMlaNCR^<OOoVNV;m90
+R3
+R4
+Z22 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/counter.vhd
+Z23 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/counter.vhd
+l0
+L5
+VJWBSoA92SPB=D6fiVh:D61
+R7
+R18
+32
+R9
+R10
+!s100 LS3=3@e_<1BIVS?H3none0
+Abehavioral
+R20
+R21
+R3
+Z24 DEx4 work 7 counter 0 22 JWBSoA92SPB=D6fiVh:D61
+l20
+L18
+VLZQnEzAYUTUlX0>HhK7Rc2
+R7
+32
+Z25 Mx3 4 ieee 14 std_logic_1164
+Z26 Mx2 4 ieee 18 std_logic_unsigned
+Z27 Mx1 4 ieee 15 std_logic_arith
+R9
+R10
+!s100 8D[m?UkW<X92b@4HEh9`51
+Elayer
+Z28 w1682485977
+Z29 DPx4 ieee 9 math_real 0 22 zjAF7SKfg_RPI0GT^n1N`1
+R2
+R3
+R4
+Z30 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layer.vhd
+Z31 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layer.vhd
+l0
+L6
+V5_Nzh5REzGzEeg`A=`iHB0
+R7
+R18
+32
+R9
+R10
+!s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+!s100 41UP?UHdBRdmDYW6bA]?c0
+Abehavioral
+Z32 DEx4 work 15 layercontroller 0 22 iTz7Z>IoE7?COKD`fdP_J1
+R20
+R21
+Z33 DEx4 work 13 layerdatapath 0 22 [>B[M<1f;RilNfNbRdH0N0
+R29
+R2
+R3
+Z34 DEx4 work 5 layer 0 22 5_Nzh5REzGzEeg`A=`iHB0
+l31
+L24
+VVI<aJjz]Cz2S:Y;>>S[En3
+R7
+32
+Mx5 4 ieee 14 std_logic_1164
+Z35 Mx4 4 ieee 11 numeric_std
+Z36 Mx3 4 ieee 9 math_real
+R26
+R27
+R9
+R10
+!s100 kRdA2GIY@om]bHZ`74:mP0
+Player_pkg
+R3
+w1682250633
+R4
+8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layer_pkg.vhd
+FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layer_pkg.vhd
+l0
+L4
+VU9T98CBQ0XHV`XJnJ6zon3
+R7
+R14
+32
+R15
+R9
+R10
+!s100 ^kXC8m1jZ66M[[<[HK<i32
+Elayercontroller
+Z37 !s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+Z38 w1682261869
+R2
+R20
+R21
+R3
+R4
+Z39 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layerController.vhd
+Z40 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layerController.vhd
+l0
+L6
+ViTz7Z>IoE7?COKD`fdP_J1
+R7
+R37
+32
+R9
+R10
+!s100 @Y:6F:KB6gUB`J?mV9jFk0
+Abehavioral
+R2
+R20
+R21
+R3
+R32
+l24
+L21
+V65@hMJR_hlT6RI__WE2oP3
+R7
+32
+Z41 Mx4 4 ieee 14 std_logic_1164
+Mx3 4 ieee 18 std_logic_unsigned
+Mx2 4 ieee 15 std_logic_arith
+R13
+R9
+R10
+!s100 0D0YYK][mi4e>Hal1A63Y3
+Elayerdatapath
+Z42 w1682486049
+R29
+R2
+R20
+R21
+R3
+R4
+R16
+R17
+l0
+L8
+V[>B[M<1f;RilNfNbRdH0N0
+R7
+Z43 !s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+32
+R9
+R10
+!s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+!s100 9G3[g3^VC?80IG<NJCQ=d0
+Abehavioral
+Z44 DEx4 work 4 relu 0 22 Cog^J?;Gb=YBWHUT_FkU`3
+Z45 DEx4 work 6 neuron 0 22 ]T3[X4`MmW75EWnN8E;kj3
+Z46 DPx3 std 6 textio 0 22 m2KQDRRhmF833<<DjYdL70
+Z47 DPx4 ieee 16 std_logic_textio 0 22 8YS?iX`WD1REQG`ZRYQGB2
+Z48 DEx4 work 3 rom 0 22 HVE^R]df7>U@;SXQL`2LQ1
+R24
+Z49 DEx4 work 3 mux 0 22 LA[?bzi4Uj]JCnPZ:i5G>2
+R29
+R2
+R20
+R21
+R3
+R33
+l36
+L29
+VM_YeZiLVgziVGch3H2c==2
+R7
+32
+Mx7 4 ieee 14 std_logic_1164
+Mx6 4 ieee 18 std_logic_unsigned
+Mx5 4 ieee 15 std_logic_arith
+R35
+R36
+Z50 Mx2 4 ieee 16 std_logic_textio
+Z51 Mx1 3 std 6 textio
+R9
+R10
+!s100 98>FPT6oTC_[DZLb2LIgX2
+Elayertest
+R37
+Z52 w1682486005
+R3
+R4
+Z53 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layerTest.vhd
+Z54 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/layerTest.vhd
+l0
+L4
+VdgQ^3?hC>GVhmZO2:iYZf3
+R7
+R14
+32
+R9
+R10
+!s100 0g?8FD=3HT4D_@oYmzO[Q1
+Abehavioral
+R29
+R2
+R34
+R3
+DEx4 work 9 layertest 0 22 dgQ^3?hC>GVhmZO2:iYZf3
+l14
+L7
+VF<A68_>KgdTC0]U=z4l`l1
+R7
+32
+R25
+Z55 Mx2 4 ieee 11 numeric_std
+Z56 Mx1 4 ieee 9 math_real
+R9
+R10
+!s100 ed11n9PI?zXM19Fb@cB9:3
+Ememory
+R37
+Z57 w1682241830
+R46
+R47
+R2
+R3
+R4
+Z58 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/memory.vhd
+Z59 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/memory.vhd
+l0
+L8
+VVTeF<NiAz>YP`CagT=15^1
+R7
+R37
+32
+R9
+R10
+!s100 B][[X?[2a?b8IYMniFcT60
+Abehavioral
+R46
+R47
+R2
+R3
+DEx4 work 6 memory 0 22 VTeF<NiAz>YP`CagT=15^1
+l48
+L24
+Vnl;Vbc1F6DNdlLUj>5FTG3
+R7
+32
+R41
+Z60 Mx3 4 ieee 11 numeric_std
+R50
+R51
+R9
+R10
+!s100 P9^DX:=7YKR^T:4T3=b1E3
+Emlp
+R43
+Z61 w1682591650
+Z62 DPx4 work 8 arr_type 0 22 DKQNKoAOPX=0za54Z?FTg1
+R29
+R2
+R3
+R4
+Z63 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/MLP.vhd
+Z64 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/MLP.vhd
+l0
+L7
+VdDS?h3oL>31?Sa3LcUHV42
+!s100 jeLz6EmR:oVd4992gUg6R1
+R7
+R37
+32
+R9
+R10
+Abehavioral
+R34
+R62
+R29
+R2
+R3
+Z65 DEx4 work 3 mlp 0 22 dDS?h3oL>31?Sa3LcUHV42
+l27
+L23
+Z66 VNSEITHW?^?IhSFn;[FiQ[2
+Z67 !s100 ?a2K?cDTcafg5ah>?oGRf1
+R7
+32
+R41
+R60
+Z68 Mx2 4 ieee 9 math_real
+Z69 Mx1 4 work 8 arr_type
+R9
+R10
+Emlptest
+Z70 w1682518413
+Z71 DPx3 std 3 env 0 22 MS<MD0@]6L0EihU2C?95]0
+R62
+R46
+R47
+R20
+R21
+R2
+R3
+R4
+Z72 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/MLPtest.vhd
+Z73 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/MLPtest.vhd
+l0
+L10
+V@k?9DT2=24V8b7`G9lDH:0
+R7
+32
+R9
+R10
+!s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+!s100 zXkZe1<ikXbRbfInS^9?S2
+!s101 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0 -O0
+Abehavioral
+R29
+R65
+R71
+R62
+R46
+R47
+R20
+R21
+R2
+R3
+DEx4 work 7 mlptest 0 22 @k?9DT2=24V8b7`G9lDH:0
+l48
+L13
+V[X84DUElhdC?gUiT7FWeO3
+R7
+32
+Mx9 4 ieee 14 std_logic_1164
+Mx8 4 ieee 11 numeric_std
+Mx7 4 ieee 18 std_logic_unsigned
+Mx6 4 ieee 15 std_logic_arith
+Mx5 4 ieee 16 std_logic_textio
+Mx4 3 std 6 textio
+Mx3 4 work 8 arr_type
+Mx2 3 std 3 env
+R56
+R9
+R10
+!s100 [6aKWgbX`QEf9B811DgkH3
+Emultiplier
+R8
+Z74 w1682271280
+R2
+R3
+R4
+Z75 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/multiplier.vhd
+Z76 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/multiplier.vhd
+l0
+L5
+VVf;9ZbGFJVffjO6:81eIN1
+R7
+R8
+32
+R9
+R10
+!s100 KA@_K8F@hYomd;JbIcBld1
+Abehavioral
+R2
+R3
+Z77 DEx4 work 10 multiplier 0 22 Vf;9ZbGFJVffjO6:81eIN1
+l17
+L16
+V=I9mS6JQ=I2APf9_ChjgE0
+R7
+32
+R12
+R13
+R9
+R10
+!s100 Yl79hoMOkDk>;z=S:d0Nf1
+Emux
+R18
+Z78 w1682267926
+R29
+R2
+R3
+R4
+Z79 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/mux.vhd
+Z80 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/mux.vhd
+l0
+L8
+VLA[?bzi4Uj]JCnPZ:i5G>2
+R7
+R18
+32
+R9
+R10
+!s100 [IB75iB@1mzZ5[dT74QHb3
+Abehavioral
+R29
+R2
+R3
+R49
+l21
+L20
+V8FGkfI^0kOXENFYMbjIEW1
+R7
+32
+R25
+R55
+R56
+R9
+R10
+!s100 fK=m>0z>;T^6C`B8K[Y@f2
+Eneuron
+R43
+Z81 w1682267166
+R3
+R4
+Z82 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/neuron.vhd
+Z83 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/neuron.vhd
+l0
+L4
+V]T3[X4`MmW75EWnN8E;kj3
+R7
+R14
+32
+R9
+R10
+!s100 I=l5P7UZ@No7<5d^HF=0b3
+Abehavioral
+Z84 DEx4 work 14 normalregister 0 22 K<TaJSn>W>43[E]ae56mV1
+R11
+R2
+R77
+R3
+R45
+l28
+L21
+VmCRUi0RkOAFIfZ_SD0Z6@3
+R7
+32
+R12
+R13
+R9
+R10
+!s100 S0Km@5EmAU4KjJRRUl:e^3
+Enormalregister
+R14
+Z85 w1682247255
+R3
+R4
+Z86 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/register.vhd
+Z87 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/register.vhd
+l0
+L4
+VK<TaJSn>W>43[E]ae56mV1
+R7
+R14
+32
+R9
+R10
+!s100 5?N_]9N3geBK_:]]1IjZm1
+Abehavioral
+R3
+R84
+l19
+L18
+VM[AYkn]C_i?3V[0:ZGPlg3
+R7
+32
+R15
+R9
+R10
+!s100 jX__OhcE917_9VNS08MfR1
+Erelu
+R8
+Z88 w1682516670
+R2
+R3
+R4
+Z89 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/ReLU.vhd
+Z90 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/ReLU.vhd
+l0
+L5
+VCog^J?;Gb=YBWHUT_FkU`3
+R7
+R8
+32
+R9
+R10
+!s100 QzdEICHXWESYe>ChQlIGO1
+Abehavioral
+R2
+R3
+R44
+l16
+L15
+V>Ng8]Tbc4Tmhl[iKXf29:0
+R7
+32
+R12
+R13
+R9
+R10
+!s100 [1ITZcE==I]8HRDOSaL4J3
+Erom
+R37
+Z91 w1682513283
+R46
+R47
+R2
+R3
+R4
+Z92 8D:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/rom.vhd
+Z93 FD:/Electrical Engineering/Graduate/VHDL/Assignments/3/codes/rom.vhd
+l0
+L8
+VHVE^R]df7>U@;SXQL`2LQ1
+R7
+R37
+32
+R9
+R10
+!s100 ;WkRgnS>FeH4`MdQ?lH`@0
+Abehavioral
+R46
+R47
+R2
+R3
+R48
+l47
+L23
+VBJi1n`CHoYOjYKMAU9WkR3
+R7
+32
+R41
+R60
+R50
+R51
+R9
+R10
+!s100 OQQm;8gIH3HTe88:7V3jd1
+Evam16tb
+R37
+Z94 w1682266388
+R3
+R4
+R53
+R54
+l0
+L4
+Vb]mX2DW^39RgoAnG1MKf31
+R7
+R14
+32
+R9
+R10
+!s100 W:zjXl3<M^aNLlLXX5Wj51
+Abehavioral
+R29
+R2
+DEx4 work 5 layer 0 22 F4f?QodQ[NHJ1Lz_ZMfKT0
+R3
+DEx4 work 7 vam16tb 0 22 b]mX2DW^39RgoAnG1MKf31
+l14
+L7
+V7JO4cEBS24L<E2<PMS`7I0
+R7
+32
+R25
+R55
+R56
+R9
+R10
+!s100 :X9gIizm9ocXQMI5iZRW@0
